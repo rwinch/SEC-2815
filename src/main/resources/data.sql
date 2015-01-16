@@ -1,7 +1,6 @@
 INSERT INTO
-    datacenters
-    (name, location)
+    dummy_table
+    (dummy_name)
 VALUES
-    ('big-sky', 'Kalispell, MT'),
-    ('hollywood', 'Los Angeles'),
-    ('panda', 'Beijing');
+    ('foo'),
+    ('bar');
