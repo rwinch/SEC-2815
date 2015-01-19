@@ -1,4 +1,4 @@
-package demo;
+package demo.subpackage;
 
 import javax.persistence.OrderBy;
 
